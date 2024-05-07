@@ -1,0 +1,8 @@
+.videoplayer {
+    width: 50%;
+    height: auto; /* Ensures the video retains its aspect ratio */
+    outline: none; /* Remove default focus outline */
+    border: 3px solid #ccc; /* Example border */
+    border-radius: 5px; /* Example border radius */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Example box shadow */
+  }
